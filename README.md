@@ -63,7 +63,7 @@ Prediction: Cyberbullying
 System Message: This comment contains **Cyberbullying content** and is blocked.
 ###  How to Run the Project
 1. Clone the repository  
-git clone <your-repo-link>
+git clone <https://github.com/HemasriH/cyberbullying-risk-prediction>
 
 2. Install required libraries  
 pip install -r requirements.txt
